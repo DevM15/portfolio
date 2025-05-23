@@ -23,7 +23,7 @@ body {
   justify-content: space-between;
 }
 
-.logo img {
+.logo > img {
   width: 3vw;
 }
 
